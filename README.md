@@ -56,9 +56,7 @@ I specialize in **NGS data analysis** and have worked across **oncogenetics, pla
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyedaHinaShah&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedaHinaShah&layout=compact&theme=tokyonight)  
-![Profile Views](https://komarev.com/ghpvc/?username=SyedaHinaShah&color=blue)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyedaHinaShah&show_icons=true&theme=tokyonight)
 
 ---
 
