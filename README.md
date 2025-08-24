@@ -10,15 +10,17 @@ I specialize in **NGS data analysis** and have worked across **oncogenetics, pla
 
 ---
 
-## 🧪 Expertise  
-- **NGS Data Analysis**: Whole Exome Sequencing (WES), DNA-Seq, RNA-Seq  
-- **Variant Calling & Mutation Detection** (including novel variants)  
-- **Multi-Omics Integration**: Genomics, Transcriptomics, Proteomics  
-- **Data Visualization & Interpretation** for large-scale sequencing datasets  
+## 🧬 Core Expertise
+- **Genomics**: Whole Exome Sequencing (WES), Whole Genome Sequencing (WGS), Variant Calling & Visualization  
+- **Transcriptomics**: RNA-Seq (Differential Expression), Microarray (GEO), TCGA/GDC metadata & clinical data integration  
+- **Functional Analysis**: Gene Ontology (GO), KEGG Pathway Enrichment, Network Biology (STRING, Enrichr, g:Profiler)  
+- **Computational Tools**: R, Biopython, Shiny Apps for Bioinformatics, Bayesian & Phylogenetic analysis (MEGA)  
 
 ---
 
-## 🛠 Tools & Skills  
+## 📊 Tools & Databases
+- **Databases**: SRA, ENA, NCBI, UCSC Genome Browser, Ensembl  
+- **Frameworks**: R/Bioconductor, Python (Biopython, Pandas, Scikit-learn), Ubuntu
 
 ### 🔹 Programming & Analysis  
 ![R](https://img.shields.io/badge/-R-blue?logo=r&logoColor=white)  
